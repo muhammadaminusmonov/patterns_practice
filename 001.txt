@@ -1,0 +1,3 @@
+completed:
+observation pattern
+Factory Method Pattern
