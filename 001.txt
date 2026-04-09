@@ -1,3 +1,4 @@
 completed:
 observation pattern
 Factory Method Pattern
+Simple Factory
